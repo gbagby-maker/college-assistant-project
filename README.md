@@ -1,7 +1,3 @@
-# college-assistant-project
-import streamlit as st
-import requests
-
 # 1. Configuration & API Setup
 API_KEY = "vGYj45AO3FjpMf7HreaqsMTvvoON2WIMpBkQruly"
 BASE_URL = "https://api.data.gov/ed/collegescorecard/v1/schools.json"
